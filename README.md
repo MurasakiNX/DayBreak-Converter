@@ -1,5 +1,5 @@
 # 📦 DayBreak Converter
-DayBreak-Converter is a program that allows you to make Nintendo Switch firmware files compatible with DayBreak
+DayBreak Converter is a program that allows you to make Nintendo Switch firmware files compatible with DayBreak
 
 [![Discord](https://img.shields.io/discord/643436008452521984.svg?logo=discord&logoColor=white&label=Discord&color=7289DA
 )](https://discord.gg/6zRbG3FsJH)
