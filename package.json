@@ -1,0 +1,9 @@
+{
+  "name": "DayBreak-Converter",
+  "version": "1.0.0",
+  "description": "DayBreak-Converter is a program that allows you to make Nintendo Switch firmware files compatible with DayBreak",
+  "main": "index.js",
+  "repository": "https://github.com/MurasakiNX/DayBreak-Converter.git",
+  "author": "Mura⚡ <matisu64@gmail.com>",
+  "license": "MIT"
+}
